@@ -2,7 +2,7 @@
 Last version [Ms. Google](https://github.com/stanleyshen2003/Ms.google)
 
 # What's new
-- only need single .exe file to execute
+- only need a single .exe file to execute
 - add some daily dialog
 - Male voice!!!!!
 
