@@ -10,9 +10,11 @@ Last version [Ms. Google](https://github.com/stanleyshen2003/Ms.google)
 - Male voice!!!!!
 - Three kinds of voices available
 
+
+![image](https://user-images.githubusercontent.com/80504001/228629218-c862bbc2-c590-446a-b69b-18d51b68c63f.png)
+
 # Function sacrificed
 - after the .exe was closed, the next time you open the .exe, the records will be the daily dialog
 - no icon = =
 
-![image](https://user-images.githubusercontent.com/80504001/228629218-c862bbc2-c590-446a-b69b-18d51b68c63f.png)
 
